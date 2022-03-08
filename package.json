@@ -1,0 +1,16 @@
+{
+  "name": "Yuuichi-M.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yuuichi-M/Yuuichi-M.github.io.git",
+  "author": "Yuuichi-M <yuu555.dive.no.1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "md-to-pdf": "^5.1.0",
+    "textlint": "^12.1.1"
+  },
+  "dependencies": {
+    "lint": "^0.7.0"
+  }
+}
