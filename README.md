@@ -38,12 +38,14 @@
 - 技術的スキル
   - PHP/Laravel/Vue.js/AWS/CircleCIでのポートフォリオ開発の経験有り。
     - URL:[travel-notes.online](https://travel-notes.online/)
-    - 紹介記事:[旅の思い出投稿サービス『Travel notes』の紹介](https://qiita.com/yuuichimizuta/items/e8a8cf2bbecba7cba965)
-      - CRUD機能、MVC、ログイン機能、デバック処理。
-      - PHPUnitでのテストコード実装。
-      - Vue.jsを使用したいいね機能、タグ機能、フォロー機能実装(非同期通信)。
-      - AWSで本番環境構築(EC2/RDS/VPC/Route/53/ALB/ACM/S3/CloudWatch）
-      - CircleCIを使用したgit pull自動デプロイ設定。Slack Orbを使用してデプロイ結果通知。
+    - 紹介記事
+      - アプリ開発について: [【個人開発】実務未経験でDocker × Laravel × AWSを使ってWebアプリを開発した話](https://qiita.com/yuuichimizuta/items/e8a8cf2bbecba7cba965)
+      - アプリの機能・画面について: [旅の思い出を共有できるSNSサービス『Travel notes』の紹介](https://qiita.com/yuuichimizuta/items/8f0485da3262f55a35e6)
+    - CRUD機能、MVC、ログイン機能、デバック処理。
+    - PHPUnitでのテストコード実装。
+    - Vue.jsを使用したいいね機能、タグ機能、フォロー機能実装(非同期通信)。
+    - AWSで本番環境構築(EC2/RDS/VPC/Route/53/ALB/ACM/S3/CloudWatch）
+    - CircleCIを使用したgit pull自動デプロイ設定。Slack Orbを使用してデプロイ結果通知。
 - コミュニケーションスキル
   - 積極的にコミュニケーションを取り、スムーズな連携やサポートができます。
   - 状況に応じたコミュニケーションを意識できます。
