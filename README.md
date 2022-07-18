@@ -9,7 +9,6 @@
 |  居住地  |  東京都板橋区  |
 |  生年月日  |  1989年09月05日(満32歳)  |
 |  最終学歴  |  大学：広島経済大学 経済学部経済学科<br/>専門学校：ESPミュージカルアカデミー東京校 ギターコース  |
-|  ポートフォリオ  |  [travel-notes.online](https://travel-notes.online/)  |
 |  twitter  |  [@yuuichimizuta](https://twitter.com/yuuichimizuta)  |
 |  Wantedly  |  [@yuuichi_mizuta](https://www.wantedly.com/id/yuuichi_mizuta)  |
 |  GitHub  |  [@Yuuichi-M](https://github.com/Yuuichi-M)  |
@@ -37,7 +36,7 @@
 ## 自身の強み
 - 技術的スキル
   - PHP/Laravel/Vue.js/AWS/CircleCIでのポートフォリオ開発の経験有り。
-    - URL:[travel-notes.online](https://travel-notes.online/)
+    - URL:~~[travel-notes.online](https://travel-notes.online/)~~
     - 紹介記事
       - アプリ開発について: [【個人開発】実務未経験でDocker × Laravel × AWSを使ってWebアプリを開発した話](https://qiita.com/yuuichimizuta/items/e8a8cf2bbecba7cba965)
       - アプリの機能・画面について: [旅の思い出を共有できるSNSサービス『Travel notes』の紹介](https://qiita.com/yuuichimizuta/items/8f0485da3262f55a35e6)
